@@ -1,4 +1,4 @@
-# India States Prediction Game Using Comprehension
+# Indian States Prediction Game Using Comprehension
 
 A India States Prediction Game that tests your knowledge of Indian states and union territories. You'll be presented with an outline map of India, 
 and you need to guess the names of the states or union territories using Python's list comprehension.
