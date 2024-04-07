@@ -67,4 +67,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Enjoy the India States Prediction Game! Test your knowledge and have fun learning about the Indian states and union territories.
 ```
-
